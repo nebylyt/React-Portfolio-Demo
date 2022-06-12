@@ -20,10 +20,6 @@ li {
   cursor: pointer;
 }
 
-.nav-link > .active {
-  /* border-bottom: 1px solid var(--yellow-shade); */
-}
-
 .nav-link:hover {
   background: linear-gradient top var(--yellow-shade)
 }
@@ -94,7 +90,16 @@ p{
     width: 50%;
 }
 .about-heading{
-    text-align: center;
+  margin-top: 10rem;
+  text-align: center;
+}
+.service-heading{
+  margin-top: 10rem;
+  text-align: center;
+}
+.portfolio-heading {
+  margin-top: 10rem;
+  text-align: center;
 }
   
   

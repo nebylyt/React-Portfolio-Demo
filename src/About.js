@@ -17,19 +17,18 @@ const About = () => {
         </div>
         <div className="about-heading" >
           <h1 id='section2'>About</h1>
-        </div>
-
-        <p>
-          Hello! I'm Shahzaib, a software engineer based in Karachi, Web
-          Developer with 1 years of experience in designing and developing
-          user interfaces, and eCommerce technologies.
-          Proven ability in optimizing web functionality that improve data
-          retrieval and workflow efficiencies using modern frontend. <br />
-          <br /> Currently i am in 1st semester of my bachelors from SMIU
-            University of Pakistan.
-          </p>
-        <br />
-        <p>
+            
+          <p>
+            Hello! I'm Shahzaib, a software engineer based in Karachi, Web
+            Developer with 1 years of experience in designing and developing
+            user interfaces, and eCommerce technologies.
+            Proven ability in optimizing web functionality that improve data
+            retrieval and workflow efficiencies using modern frontend. <br />
+            <br /> Currently i am in 1st semester of my bachelors from SMIU
+              University of Pakistan.
+            </p>
+            <br />
+          </div>
           Here are a few technologies I've been working with recently:
           <li>JavaScript (ES6+)</li>
           <li>HTML5 & (S)CSS3</li>
@@ -39,18 +38,13 @@ const About = () => {
           <li>Gatsby</li>
           
           
-        </p>
+        </div>
 
 
       </div>
 
       
 
-      {/* </section> */}
-
-      
-
-    </div>
   )
 }
 export default About;
