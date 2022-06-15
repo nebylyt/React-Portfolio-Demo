@@ -7,8 +7,6 @@ const About = () => {
   return (
     <div className='aboutstyle' id="section2">
 
-      {/* <section className="about"> */}
-
       <div className="container" data-aos="fade-right">
 
         <div className="profpic">
@@ -36,15 +34,8 @@ const About = () => {
           <li>Bootstrap</li>
           <li>Wordpress</li>
           <li>Gatsby</li>
-          
-          
         </div>
-
-
       </div>
-
-      
-
   )
 }
 export default About;
